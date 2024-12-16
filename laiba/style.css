@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(241, 236, 236);
+   color: black;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.container {
+    text-align: center;
+    margin-top: 20%;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  background-color: rgb(236, 226, 226);
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: antiquewhite;
+}
